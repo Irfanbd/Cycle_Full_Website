@@ -6,7 +6,8 @@
 .container{
     width: 100%;
     height: 100%;
-   background: #fcfaad;
+    background: linear-gradient(191deg, rgba(22,157,130,1) 0%,rgba(247,239,56,1)  100%);
+
 }
 .menu ul{
     display: inline-flex;
@@ -68,7 +69,7 @@ position:absolute;
     margin:30px 0 90px 40px;
     line-height:25px;
     font-weight: 600;
-    color:#53a65e;
+    color:#fff;
 }
 .app-picture{
     width: 50%;
