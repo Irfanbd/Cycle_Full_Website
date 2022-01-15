@@ -109,7 +109,8 @@ position:absolute;
         left: 0;
         bottom: 0;
         position: absolute;
-        background: linear-gradient(191deg, rgba(22,85,42,1) 0%, rgba(51,180,133,1) 46%, rgba(22,157,130,1) 100%);
+        background: linear-gradient(191deg, rgba(255,244,14,1) 0%, rgba(51,180,133,1) 46%, rgba(22,157,130,1) 100%);
+
     }
     .quick-links ul{
         display: inline-flex;
@@ -136,7 +137,8 @@ position:absolute;
         right: 72px;
         bottom: 35px;
         position: absolute;
-        background: linear-gradient(191deg, rgba(22,85,42,1) 0%, rgba(51,180,133,1) 46%, rgba(22,157,130,1) 100%);
+        background: linear-gradient(191deg, rgba(255,244,14,1) 0%, rgba(51,180,133,1) 46%, rgba(22,157,130,1) 100%);
+
     }
     .social-icons ul li{
         list-style: none;
